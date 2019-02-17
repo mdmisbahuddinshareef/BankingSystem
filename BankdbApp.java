@@ -1,5 +1,4 @@
-/*----------------Bank-Application-System--------------------
-        By - ABDUL WAHED and ABRAR ATHAR HASHMI       */
+/*----------------Bank-Application-System-------------------*/
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
